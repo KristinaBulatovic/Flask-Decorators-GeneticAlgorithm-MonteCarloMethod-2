@@ -1,1 +1,1 @@
-# Flask-Decorators-GeneticAlgorithm-MonteCarloMethod2
+# Monte Carlo Method - pyplot, numpy
